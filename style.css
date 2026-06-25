@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(10, 58, 97);
+    color: lightyellow;
+    font-family: "Great Vibes", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(28, 90, 114);
+    color: rgb(255, 255, 240);
+    font-family: "Great Vibes", cursive;
+}
