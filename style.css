@@ -14,10 +14,11 @@ button {
     color: rgb(255, 255, 240);
     font-family: "Great Vibes", cursive;
 }
+ .passo {
+  display: none;
 
-  
-.passo {
-    display: none;
+}
 
-
- }
+ .passo {
+    display: block;
+}
